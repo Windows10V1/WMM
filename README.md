@@ -1,2 +1,2 @@
-# Windows-Map-Mod
-Releases For NSMBVS-WindowsMapMod
+# Windows-Map-Mayhem
+Releases For NSMBVS-WindowsMapMayhem
